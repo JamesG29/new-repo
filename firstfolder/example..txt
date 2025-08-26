@@ -1,6 +1,5 @@
 Heelo i speleld that wrong, oh and i spelled that wrong
 
-<<<<<<< HEAD:firstfolder/example.txt
 ooh another line
 
 MOOOOOOOOORE LINES
@@ -10,4 +9,3 @@ ANOTHA ONE
 finally another line
 =======
 ooh another line
->>>>>>> parent of 4a64fab (rename):firstfolder/example..txt
